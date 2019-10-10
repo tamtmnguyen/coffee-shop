@@ -5,3 +5,4 @@ Feature: Add some stories
     Given I purchase a 'dark' coffee
     When I go to the coffee shop
     Then I expect to be served in a dark mug
+    Then I pay the money
