@@ -1,17 +1,8 @@
-Feature:
+Feature:eqweqw
   <Some interesting description here>
 
   Scenario:
-    <Some interesting scenario steps here>
-asdasda
-das
-da
-sd
-asd
-as
-da
+qdaseqw
 d
-a
-da
-d
-asd
+aqwe
+qwqeqweqweqweqweqweqe
