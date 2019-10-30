@@ -4,14 +4,14 @@ Feature:
   Scenario:
     <Some interesting scenario steps herewqeqweqqeqweqweqw
     e
-    qe
+    ad
     q
     eq
-    w
-    eqw
-    e
-    q
+    wada
+    eqwd
+    asdasd
     eq
-    e
-    qw
-    eqwe>
+    dadasdadadasda
+    qwasdsad
+    eqwe>dasdadadad
+adadasddadadasdad
