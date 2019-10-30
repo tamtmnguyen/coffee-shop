@@ -2,18 +2,12 @@ Feature:eqweqw
   <Some interesting description here>
 
   Scenario:
-qdaseqw
-d
-aqwe
-qwqeqweqweqweqweqweqe
-qweqwe
-qwe
-qe
+qdaseqweqweq
+qwq
+qeweqeqe
 qw
 eq
-eqw
-eqweq
-eq
+eqwweqw
 weqw
 eq
 eqw
@@ -22,5 +16,5 @@ qw
 qe
 qe
 qw
-eq
-eqwwewqqqqweq
+eqeqweqweqwe
+eqweqweqweqweqwe
