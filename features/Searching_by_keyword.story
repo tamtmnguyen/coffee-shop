@@ -17,6 +17,10 @@ Lifecycle:
 Before:
 Scope: SCENARIO
 [steps to be executed before each scenario]
+
+
+
+
 After:
 Scope: SCENARIO
 [steps to be executed after each scenario]
